@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.out
+*.pdf
+main.run.xml
+main.toc
+main-blx.bib
+Slides/slides.toc
